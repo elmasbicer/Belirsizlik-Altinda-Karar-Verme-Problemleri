@@ -1,0 +1,8 @@
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\obj\Debug\Belirsizlik.csproj.AssemblyReference.cache
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\obj\Debug\Belirsizlik.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\obj\Debug\Belirsizlik.csproj.CoreCompileInputs.cache
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\bin\Debug\Belirsizlik.exe.config
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\bin\Debug\Belirsizlik.exe
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\bin\Debug\Belirsizlik.pdb
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\obj\Debug\Belirsizlik.exe
+C:\Users\eliif\OneDrive\Masaüstü\ÖDEV\Belirsizlik\Belirsizlik\obj\Debug\Belirsizlik.pdb
